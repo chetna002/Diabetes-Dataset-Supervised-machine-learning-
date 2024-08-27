@@ -19,6 +19,6 @@ Specify the license under which the dataset is distributed. For example:
 
     This dataset is licensed under the [Name of License] license. See the LICENSE file for more information.
 
-    Contact
-
-For any questions or issues regarding this dataset, please contact [Chetna] at [chetnasaini002@gmail.com].
+ Contact: 
+ For any questions or issues regarding this dataset, please contact [Chetna] at 
+ [chetnasaini002@gmail.com].
