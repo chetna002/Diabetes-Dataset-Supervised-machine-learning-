@@ -1,4 +1,5 @@
-The diabetes.csv dataset contains information related to diabetes patients. This dataset is commonly used for exploring and analyzing data related to diabetes prediction and analysis. It includes various features that can help in understanding and modeling diabetes-related conditions.
+Diabetes Dataset
+    diabetes.csv dataset contains information related to diabetes patients. This dataset is commonly used for exploring and analyzing data related to diabetes prediction and analysis. It includes various features that can help in understanding and modeling diabetes-related conditions.
 Dataset Details
 
     File Name: diabetes.csv
@@ -15,10 +16,9 @@ Dataset Details
     Exploring relationships between different features and diabetes.
     License
 
-Specify the license under which the dataset is distributed. For example:
+License
 
-    This dataset is licensed under the [Name of License] license. See the LICENSE file for more information.
-
+     This dataset is not licensed for public use. All rights are reserved.
  Contact: 
  For any questions or issues regarding this dataset, please contact [Chetna] at 
  [chetnasaini002@gmail.com].
